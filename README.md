@@ -22,7 +22,7 @@ With this package forget the pain of naming keys and managing them in Redis. Som
 You can install the package via composer:
 
 ```bash
-composer require bilaliqbalr/laravel-redis
+composer require emanueletoffolon/laravel-eloquent-redis
 ```
 
 You can publish the config file with:
